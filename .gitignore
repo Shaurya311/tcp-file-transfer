@@ -1,0 +1,6 @@
+*.o
+server
+client
+test_sha256
+uploads/
+test_tmp/
